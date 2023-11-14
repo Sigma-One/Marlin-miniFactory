@@ -234,6 +234,7 @@
 #define BOARD_SAV_MKI                 1705  // SAV Mk-I (AT90USB1286)
 #define BOARD_TEENSY2                 1706  // Teensy++2.0 (AT90USB1286)
 #define BOARD_5DPRINT                 1707  // 5DPrint D8 Driver Board
+#define BOARD_MINIFACTORY             1708  // miniFactory
 
 //
 // LPC1768 ARM Cortex-M3
